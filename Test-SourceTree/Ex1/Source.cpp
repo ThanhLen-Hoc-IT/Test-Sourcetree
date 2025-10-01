@@ -7,5 +7,6 @@ int main() {
 	cout << "văn nè";
 	cout << "Con  cho minh Tri"
 		cout << " tris ddepj trai vaxi loonf";
+		cout << "văn 2";
 	return 0;
 }
